@@ -1,1 +1,1 @@
-# currencybot
+https://t.me/currencyshimobot
